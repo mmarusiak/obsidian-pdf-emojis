@@ -1,0 +1,11 @@
+{
+	"id": "pdf-emotes",
+	"name": "PDF Emotes",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Helps you exporting all your emotes to pdf (even those in headings)!",
+	"author": "Marcel Marusiak",
+	"authorUrl": "https://mmarusiak.github.io",
+	"isDesktopOnly": false,
+	"main": "main.js"
+}
