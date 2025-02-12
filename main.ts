@@ -42,7 +42,7 @@ export default class EmoteSpanPlugin extends Plugin {
 							// Ensure we are not replacing numbers
 							if (!/\d/.test(emoji)) {
 								const span = document.createElement("span");
-								span.style.fontWeight = "normal";
+								span.className = "emoji";
 								span.textContent = emoji;
 								newNodes.push(span);
 							} else {
