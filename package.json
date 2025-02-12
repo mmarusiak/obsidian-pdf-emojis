@@ -1,7 +1,7 @@
 {
-	"name": "obsidian-sample-plugin",
+	"name": "pdf-emojis",
 	"version": "1.0.0",
-	"description": "This is a sample plugin for Obsidian (https://obsidian.md)",
+	"description": "Helps you exporting all your emojis to pdf (even those in headings)!",
 	"main": "main.js",
 	"scripts": {
 		"dev": "node esbuild.config.mjs",
