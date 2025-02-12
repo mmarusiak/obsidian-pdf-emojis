@@ -9,7 +9,7 @@ Obsidian PDF Emotes is an Obsidian plugin that allows you to export your notes a
 
 | Before | After |
 |--------|-------|
-| <img height="500" alt="Screenshot 2025-02-11 at 17 55 43" src="https://github.com/user-attachments/assets/aa202ad5-d606-4a3f-b08d-d642d538b15e" /> | <img height="500" alt="Screenshot 2025-02-11 at 17 55 02" src="https://github.com/user-attachments/assets/4e1e296e-a905-4dfd-8595-9a0de53344eb" /> |
+| <img height="350" alt="Before there are no emotes in headings and bold text" src="https://github.com/user-attachments/assets/aa202ad5-d606-4a3f-b08d-d642d538b15e" /> | <img height="350" alt="After there are all emotes in exported pdf" src="https://github.com/user-attachments/assets/4e1e296e-a905-4dfd-8595-9a0de53344eb" /> |
 
 
 ## 💾 Installation
@@ -28,7 +28,6 @@ Obsidian PDF Emotes is an Obsidian plugin that allows you to export your notes a
 To build the plugin from source, run:
 
 ```sh
-npm install
-npm i
+npm instal
 npm run build
 ```
