@@ -3,7 +3,7 @@ import emojiRegex from 'emoji-regex';
 
 export default class PDFEmoji extends Plugin {
 	async onload() {
-		console.log('Loading PDF Emoji plugin!');
+		console.log('Loading PDF Emoji plugin!'); 
 
 		this.registerMarkdownPostProcessor((element: HTMLElement) => {
 			// Skip certain elements to prevent modifying headings, code blocks, etc.
