@@ -1,9 +1,9 @@
 import { Plugin } from 'obsidian';
 import emojiRegex from 'emoji-regex';
 
-export default class EmoteSpanPlugin extends Plugin {
+export default class PDFEmoji extends Plugin {
 	async onload() {
-		console.log('Loading EmoteSpanPlugin');
+		console.log('Loading PDF Emoji plugin!');
 
 		this.registerMarkdownPostProcessor((element: HTMLElement) => {
 			// Skip certain elements to prevent modifying headings, code blocks, etc.
@@ -72,6 +72,6 @@ export default class EmoteSpanPlugin extends Plugin {
 	}
 
 	onunload() {
-		console.log('Unloading EmoteSpanPlugin');
+		console.log('Unloading PDF Emoji plugin!');
 	}
 }
