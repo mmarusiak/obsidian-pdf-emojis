@@ -1,6 +1,6 @@
-# Obsidian PDF Emojis 🥳
+# PDF Emojis plugin🥳
 
-Obsidian PDF Emojis is an Obsidian plugin that allows you to export your notes as PDFs while retaining emojis in headings, bold texts, and anywhere else in your notes! 🎉
+PDF Emojis is an Obsidian plugin that allows you to export your notes as PDFs while retaining emojis in headings, bold texts, and anywhere else in your notes! 🎉
 
 ## 🔎 Features
 
